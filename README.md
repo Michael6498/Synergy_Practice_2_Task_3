@@ -27,4 +27,4 @@
 <img width="497" height="332" alt="Снимок экрана 2026-07-05 090957" src="https://github.com/user-attachments/assets/09118212-5f6c-480f-8915-d9fc4dc5042a" />
 
 ## Логирование поступающих заявок (вывод в консоль)
-<img width="779" height="36" alt="image" src="https://github.com/user-attachments/assets/ec6a2e90-add5-4648-97bc-e8e876be556e" />
+<img width="779" height="28" alt="image" src="https://github.com/user-attachments/assets/3aca033c-6780-43f9-a951-f791e568e52f" />
