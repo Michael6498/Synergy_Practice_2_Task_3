@@ -21,6 +21,6 @@
 * **Логирование:** фиксация входящих заявок в консоли сервера.
 
 ## Интерфейс системы
-<img width="484" height="718" alt="Снимок экрана 2026-07-05 090302" src="https://github.com/user-attachments/assets/61b5a27b-c989-42b3-8add-7c0cc83954fb" />
 <img width="490" height="787" alt="Снимок экрана 2026-07-05 090008" src="https://github.com/user-attachments/assets/a0daa290-058e-412f-9058-6cf046572afe" />
+<img width="484" height="718" alt="Снимок экрана 2026-07-05 090302" src="https://github.com/user-attachments/assets/61b5a27b-c989-42b3-8add-7c0cc83954fb" />
 <img width="472" height="594" alt="Снимок экрана 2026-07-05 090531" src="https://github.com/user-attachments/assets/5956816b-8f02-4ef4-94ab-03cc787e9c0a" />
