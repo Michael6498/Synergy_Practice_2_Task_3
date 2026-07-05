@@ -24,3 +24,6 @@
 <img width="490" height="787" alt="Снимок экрана 2026-07-05 090008" src="https://github.com/user-attachments/assets/a0daa290-058e-412f-9058-6cf046572afe" />
 <img width="484" height="718" alt="Снимок экрана 2026-07-05 090302" src="https://github.com/user-attachments/assets/61b5a27b-c989-42b3-8add-7c0cc83954fb" />
 <img width="472" height="594" alt="Снимок экрана 2026-07-05 090531" src="https://github.com/user-attachments/assets/5956816b-8f02-4ef4-94ab-03cc787e9c0a" />
+<img width="497" height="332" alt="Снимок экрана 2026-07-05 090957" src="https://github.com/user-attachments/assets/09118212-5f6c-480f-8915-d9fc4dc5042a" />
+## Логирование поступающих заявок (вывод в консоль)
+<img width="779" height="36" alt="image" src="https://github.com/user-attachments/assets/ec6a2e90-add5-4648-97bc-e8e876be556e" />
